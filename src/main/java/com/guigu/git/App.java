@@ -11,6 +11,7 @@ public class App {
         System.out.println("v01");
         System.out.println("dev-v01");
         System.out.println("dev-v02");
+        System.out.println("github--01");
         System.out.println("v02");
     }
 }
