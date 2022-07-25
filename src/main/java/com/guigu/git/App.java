@@ -9,5 +9,6 @@ public class App {
         System.out.println( "Hello World!" );
         System.out.println("v01");
         System.out.println("dev-v01");
+        System.out.println("dev-v02");
     }
 }
